@@ -16,7 +16,7 @@ Analisis Jaringan Sosial dalam Komunitas GitHub Developer menggunakan GNN
 ---
 
 #### **📌 Deskripsi Singkat**
-Capstone Project ini bertujuan untuk menganalisis jaringan sosial di komunitas pengembang GitHub dengan memanfaatkan Graph Neural Network (GNN). Penelitian ini berfokus pada prediksi spesialisasi pengembang, khususnya di bidang Machine Learning (ML), berdasarkan hubungan sosial mereka dalam platform GitHub.
+Capstone Project ini bertujuan untuk menganalisis jaringan sosial di komunitas developer GitHub dengan memanfaatkan Graph Neural Network (GNN). Proyek ini berfokus pada prediksi spesialisasi developer, khususnya di bidang Machine Learning (ML), berdasarkan hubungan sosial mereka dalam platform GitHub.
 
 ---
 
@@ -28,15 +28,15 @@ Klik [disini](https://www.kaggle.com/datasets/kausthubkannan/github-social-netwo
 #### **🛠️ Metode yang Digunakan**
 1. **📥 Pengumpulan Data:** Dataset jaringan sosial developer GitHub diperoleh dari Kaggle.
 2. **🧹 Pemrosesan Data:** Data jaringan sosial diolah menjadi representasi graf.
-3. **🧠 Implementasi Model:** Menggunakan Graph Neural Network (GNN) untuk mempelajari pola dan hubungan antar pengembang.
+3. **🧠 Implementasi Model:** Menggunakan Graph Neural Network (GNN) untuk mempelajari pola dan hubungan antar developer.
 4. **📊 Evaluasi Model:** Menilai kinerja model berdasarkan metrik akurasi dan kemampuan prediksi.
 
 ---
 
 #### **🎯 Tujuan Akhir**
-1. Mempermudah komunitas pengembang dalam menemukan ahli untuk kolaborasi proyek.
+1. Mempermudah komunitas developer dalam menemukan ahli untuk kolaborasi proyek.
 2. Mendukung perusahaan teknologi dalam proses rekrutmen berbasis analisis jaringan sosial.
-3. Memberikan kontribusi akademik dengan wawasan tentang pengaruh jaringan sosial terhadap perkembangan karir pengembang.
+3. Memberikan kontribusi akademik dengan wawasan tentang pengaruh jaringan sosial terhadap perkembangan karir developer.
 
 ---
 
